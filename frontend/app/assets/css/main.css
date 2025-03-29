@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme static {
+  --font-sans: 'Space Grotesk', 'Noto Sans Thai Looped', sans-serif;
+
+  --color-primary-50: #fbf6ea;
+  --color-primary-100: #f8edeb;
+  --color-primary-200: #f1ddda;
+  --color-primary-300: #e5c1bc;
+  --color-primary-400: #d69d96;
+  --color-primary-500: #c4756f;
+  --color-primary-600: #ad5351;
+  --color-primary-700: #a04747;
+  --color-primary-800: #79383a;
+  --color-primary-900: #693236;
+  --color-primary-950: #391819;
+}
