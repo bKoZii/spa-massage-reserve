@@ -1,6 +1,0 @@
-packages:
-  - frontend
-  - backend
-  - '!**/node_modules/**'
-onlyBuiltDependencies:
-  - sharp
